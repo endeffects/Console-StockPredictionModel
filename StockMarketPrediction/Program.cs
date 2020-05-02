@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Data.SqlClient;
 namespace StockMarketPrediction
 {
@@ -9,20 +10,28 @@ namespace StockMarketPrediction
 
     class Program
     {
-        static void db_query(String query)
+        static List<String> db_query(String query, String column)
         {
-            
-            SqlConnection connection = new SqlConnection("Data Source = mydb.cueaveoortkb.us - east - 1.rds.amazonaws.com, 1433; Initial Catalog = dow_jones; User ID = root; Password = ***********");
+            List<String> list = new List<String>();
+            SqlConnection connection = new SqlConnection("Data Source = mydb.cueaveoortkb.us-east-1.rds.amazonaws.com, 1433; Initial Catalog = dow_jones; User ID = root; Password = Haresh115488");
             connection.Open();
-            
+
             SqlCommand cmd = new SqlCommand(query, connection);
-            SqlDataReader reader = cmd.ExecuteReader();
-            
-            Console.WriteLine(reader);
+
+            using (SqlDataReader reader = cmd.ExecuteReader())
+            {
+                while (reader.Read())
+                {
+                    list.Add(Convert.ToString(reader[column]));
+                }
+            }
+
+            return list;
         }
         static void Main(string[] args)
         {
-            db_query("select * from YearPrice");
+                List<String> date = db_query("select [Date] from YearPrice", "Date");
+                List<String> close = db_query("select [Close]  from YearPrice", "Close");
 
         }
     }

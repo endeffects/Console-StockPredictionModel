@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "28q9Ehm4UP/KiCSADyvccQLwf8XJHzEE1XNXftvLQNR4k5rGcEn8W51cQL9FUbTp2bMBDP+VR+akKTD+sPDmKA==",
+  "dgSpecHash": "Q9aZavw/2GOh41JMzVvBNV36v8QswfgucqD13HurRB88caSd+/f+UaMTt+ldJIWyH1u8vRexvOaGJs6T6/S1bQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\H.Singh\\source\\repos\\StockPrediction-ML.NET\\StockMarketPrediction\\StockMarketPrediction.csproj",
+  "projectFilePath": "C:\\Users\\H.Singh\\Source\\Repos\\StockPrediction-ML.NET\\StockMarketPrediction\\StockMarketPrediction.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\H.Singh\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\H.Singh\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
