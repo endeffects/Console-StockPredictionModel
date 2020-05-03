@@ -1,5 +1,3 @@
-C:\Users\H.Singh\source\repos\StockPrediction-ML.NET\StockMarketPrediction\obj\Debug\netcoreapp3.1\StockMarketPrediction.csprojAssemblyReference.cache
-C:\Users\H.Singh\source\repos\StockPrediction-ML.NET\StockMarketPrediction\obj\Debug\netcoreapp3.1\StockMarketPrediction.csproj.CoreCompileInputs.cache
 C:\Users\H.Singh\source\repos\StockPrediction-ML.NET\StockMarketPrediction\obj\Debug\netcoreapp3.1\StockMarketPrediction.AssemblyInfoInputs.cache
 C:\Users\H.Singh\source\repos\StockPrediction-ML.NET\StockMarketPrediction\obj\Debug\netcoreapp3.1\StockMarketPrediction.AssemblyInfo.cs
 C:\Users\H.Singh\source\repos\StockPrediction-ML.NET\StockMarketPrediction\bin\Debug\netcoreapp3.1\StockMarketPrediction.exe
@@ -18,3 +16,18 @@ C:\Users\H.Singh\source\repos\StockPrediction-ML.NET\StockMarketPrediction\obj\D
 C:\Users\H.Singh\source\repos\StockPrediction-ML.NET\StockMarketPrediction\obj\Debug\netcoreapp3.1\StockMarketPrediction.dll
 C:\Users\H.Singh\source\repos\StockPrediction-ML.NET\StockMarketPrediction\obj\Debug\netcoreapp3.1\StockMarketPrediction.pdb
 C:\Users\H.Singh\source\repos\StockPrediction-ML.NET\StockMarketPrediction\obj\Debug\netcoreapp3.1\StockMarketPrediction.genruntimeconfig.cache
+C:\Users\H.Singh\Source\Repos\StockPrediction-ML.NET\StockMarketPrediction\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\H.Singh\Source\Repos\StockPrediction-ML.NET\StockMarketPrediction\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\H.Singh\Source\Repos\StockPrediction-ML.NET\StockMarketPrediction\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\H.Singh\Source\Repos\StockPrediction-ML.NET\StockMarketPrediction\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\H.Singh\Source\Repos\StockPrediction-ML.NET\StockMarketPrediction\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\H.Singh\Source\Repos\StockPrediction-ML.NET\StockMarketPrediction\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\H.Singh\Source\Repos\StockPrediction-ML.NET\StockMarketPrediction\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\H.Singh\Source\Repos\StockPrediction-ML.NET\StockMarketPrediction\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\H.Singh\Source\Repos\StockPrediction-ML.NET\StockMarketPrediction\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\H.Singh\Source\Repos\StockPrediction-ML.NET\StockMarketPrediction\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\H.Singh\Source\Repos\StockPrediction-ML.NET\StockMarketPrediction\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\H.Singh\Source\Repos\StockPrediction-ML.NET\StockMarketPrediction\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\H.Singh\Source\Repos\StockPrediction-ML.NET\StockMarketPrediction\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\H.Singh\Source\Repos\StockPrediction-ML.NET\StockMarketPrediction\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\H.Singh\Source\Repos\StockPrediction-ML.NET\StockMarketPrediction\obj\Debug\netcoreapp3.1\StockMarketPrediction.csproj.CoreCompileInputs.cache
